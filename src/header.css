@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.header{
+  background-color: rosybrown;  
+  
+}
+
+.title{
+display: inline-block;
+margin-left: 10px;
+font-family:  Verdana ;
+vertical-align: middle;
+}
+
+.listStyle{
+    display: inline-block;
+    list-style: none;
+    width: calc(100% - 190px);
+    text-align: right;
+    vertical-align: middle;  
+       
+
+}
+
+
+
+.listTags{
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+
+.listTags a {
+  text-decoration: none;
+  color: #252627;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

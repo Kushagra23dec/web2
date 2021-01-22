@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+
+
+.footerStyle{
+  background-color: royalblue;
+  text-align: center;
+  bottom: 0;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  
+}
